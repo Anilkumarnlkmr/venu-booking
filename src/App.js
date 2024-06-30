@@ -3,7 +3,7 @@ import {Modal} from "../src/CommonComponents/ModelPopUp/Model";
 import React, {useState} from "react";
 import "./index.css";
 import {Header} from "./CommonComponents/Header/Header";
-import {Box, FormControl, InputLabel, Select, MenuItem} from "@mui/material";
+import {Box, FormControl, InputLabel, Select, MenuItem } from "@mui/material";
 
 const App = () => {
   const [showModal, setshowModal] = useState(true);
