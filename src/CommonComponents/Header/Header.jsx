@@ -42,16 +42,16 @@ export const Header = () => {
             Home
           </a>
           <a
-            href="#about"
+            href="/login"
             className="block mt-4 md:inline-block md:mt-0 hover:text-gray-300"
           >
-            About
+            Login
           </a>
           <a
-            href="#services"
+            href="/signup"
             className="block mt-4 md:inline-block md:mt-0 hover:text-gray-300"
           >
-            Services
+            SiginUP
           </a>
           <a
             href="#contact"
